@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <unstid.h>
 
 /**
 *
-*main-program entry point.
+*main - program entry point.
 *
 *Return: 1 on success.
 *
