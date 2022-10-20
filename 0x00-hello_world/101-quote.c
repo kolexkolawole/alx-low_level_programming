@@ -1,10 +1,11 @@
-#include <unstid.h>
+#include <stdio.h>
+#include <unistd.h>
+
 
 /**
+* main - program entry point.
 *
-*main - program entry point.
-*
-*Return: 1 on success.
+* Return: 0 on success.
 *
 */
 int main(void)
