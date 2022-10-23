@@ -5,12 +5,14 @@
  *
  * Return: Always 0 (success)
  */
- 
+
 int main(void)
 
 {
 	int a, b;
+
 	a = 48;
+
 	b = 48;
 
 	while (b < 58)
@@ -18,7 +20,7 @@ int main(void)
 	a = 48;
 	while (a < 58)
 {
-	if (b !=a && b < a)
+	if (b != a && b < a)
 {
 	putchar(b);
 	putchar(a);
